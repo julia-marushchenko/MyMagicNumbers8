@@ -27,6 +27,8 @@ public class Main {
                 System.out.println( arr [temporalValue] + " can be divided by 3.");
 
             }
+
+            //Incrementing temporalValue
             temporalValue++;
         }
 
